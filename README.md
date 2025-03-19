@@ -25,5 +25,5 @@ Participação
 > [Mirele Victória](https://github.com/Mvictoria218)  
 
 Links
-> [Protótipo](https://www.canva.com/design/DAGWd0iwLqs/aR7yHxOlw5CnOjXKpgo2Uw/edit?utm_content=DAGWd0iwLqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+> [Protótipo](https://www.canva.com/design/DAGSVuVnmig/JA-dVVySzawZ20hpRdKomQ/view?utm_content=DAGSVuVnmig&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b891d2c06)  
 
