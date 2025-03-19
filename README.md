@@ -17,12 +17,12 @@ Foi desenvolvido em grupos e criamos a Game Master uma empresa que necessitava d
 
 
 Participação
-> [Beatriz Marques](https://github.com/biaamarquess)
-> [Catarine Aparecida Almeida Tomaz](https://github.com/tomazzcatarine)
-> [Gabrielly Ribeiro](https://github.com/GabySena)
-> [Lohany Macedo](https://github.com/Lohanyy17)
-> [Maria Eduarda Gomes](https://github.com/MariaGomesR)
-> [Mirele Victória](https://github.com/Mvictoria218)
+> [Beatriz Marques](https://github.com/biaamarquess)  
+> [Catarine Aparecida Almeida Tomaz](https://github.com/tomazzcatarine)  
+> [Gabrielly Ribeiro](https://github.com/GabySena)  
+> [Lohany Macedo](https://github.com/Lohanyy17)  
+> [Maria Eduarda Gomes](https://github.com/MariaGomesR)  
+> [Mirele Victória](https://github.com/Mvictoria218)  
 
 Links
 > [Protótipo](https://www.canva.com/design/DAGWd0iwLqs/aR7yHxOlw5CnOjXKpgo2Uw/edit?utm_content=DAGWd0iwLqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
