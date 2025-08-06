@@ -1,5 +1,5 @@
 # PROJETO GAME MASTER
-O Projeto Game Master do curso Desenvolvimento de Sistemas (1° Sementre) foi uma prática nas linguagens PYTHON, HTML, CSS e uso do BANCO DE DADOS (início de desenvolvimento do banco, uso de documentos de texto TXT)
+O Projeto Game Master do curso Desenvolvimento de Sistemas (1° Semestre) foi uma prática nas linguagens PYTHON, HTML, CSS e uso do BANCO DE DADOS (início de desenvolvimento do banco, uso de documentos de texto TXT)
 
 # FINALIDADE
 Desenvolver a partir dos conhecimentos e pesquisas sobre PYTHON FLASK, HTML, CSS e BANCO DE DADOS um sistema de cadastro e consulta de jogos e plataformas.
